@@ -1,1 +1,1 @@
-A blogging website.
+A cool blogging website.
